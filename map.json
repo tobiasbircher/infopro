@@ -81,6 +81,12 @@
          "id":15,
          "name":"wall",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collide",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":49,
